@@ -22,6 +22,6 @@ namespace ConsoleApp5
         {
             return "Значение: " + g;
         }
-
+        //
     }
 }
